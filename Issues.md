@@ -1,3 +1,3 @@
 # Issues still a work-in-progress
 
-None at this time
+Calendar takes a while to update on the website after updated in Sheets
