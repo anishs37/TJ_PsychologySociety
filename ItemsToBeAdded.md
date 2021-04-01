@@ -3,4 +3,4 @@
 QOTW (question of the week) page  
 Club Constitution  
 Officer Pics  
-Pictures in-page href reference
+Additional Resources (youtube videos, etc.)
