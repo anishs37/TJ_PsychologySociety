@@ -1,3 +1,3 @@
 # Items to be added
 
-Few leadership pics
+Few leadership pics that have not been sent in yet
