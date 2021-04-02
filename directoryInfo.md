@@ -5,7 +5,7 @@ About - index.html#about
 Schedule - index.html#schedule  
 Team - index.html#team  
 Resources - resources.html  
-Past Lectures - resources.html#lectures  
+Past Lectures - lectures.html  
 Announcements - announcements.html  
 Club Constitution - (out of directory) https://tinyurl.com/TJPsychSocConstitution  
 Mailing List - (out of directory) https://tinyurl.com/TJPsychSocMailingList   
