@@ -1,6 +1,6 @@
 # TJ Psychology Society
 Github Repository for TJHSST's Psychology Society website.
 
-Note: All updates from now on will not be updated in this GitHub repository, and will only be updated in Director.
+Note: Updates will be made here only periodically, and all updates will be maintained on Director.
 
 Website Link: https://activities.tjhsst.edu/psychology/
